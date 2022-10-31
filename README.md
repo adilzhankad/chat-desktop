@@ -1,2 +1,2 @@
 # chat-desktop
-practice with this figms project - https://www.figma.com/file/gBObzdn16Asemn3YSqDdFk/Chat-Desktop-App-macOS?node-id=0%3A1
+practice with this figma project - https://www.figma.com/file/gBObzdn16Asemn3YSqDdFk/Chat-Desktop-App-macOS?node-id=0%3A1
